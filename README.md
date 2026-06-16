@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Raj Shrestha</h1>
-<h3 align="center">A passionate Computer Engineering student from Nepal, exploring Full-Stack Development & Blockchain</h3>
+<h3 align="center">A passionate Computer Engineering student from Nepal, exploring Full-Stack Development & Mobile App Development</h3>
 
 - 🎓 Currently in my 4th year, pursuing a Bachelor's in Computer Engineering at **Sagarmatha Engineering College**
 - 🌱 I'm currently building **ChainWatch**, a real-time explainable GNN platform for blockchain fraud detection
-- 💻 Interested in full-stack development, Python-based backend systems, and real-world software solutions
+- 💻 Interested in full-stack development, Python and Node-based backend systems, and real-world software solutions
 - 🤝 Strong communicator with experience in leadership and community volunteering
 - ⚡ Fun fact: Quick learner, team player, and always up for a good problem to solve
 
